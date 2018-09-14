@@ -1,0 +1,33 @@
+###### MySQL #########
+# development:
+#   adapter: mysql2
+#   encoding: utf8
+#   database: mystore_development
+#   pool: 5
+#   username: root
+#   password: root
+
+# test:
+#   adapter: mysql2
+#   encoding: utf8
+#   database: mystore_test
+#   pool: 5
+#   username: root
+#   password: root
+
+####### PostgreSQL ########
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: mystore_development
+  pool: 5
+  username: postgres
+  password: postgres
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: mystore_test
+  pool: 5
+  username: postgres
+  password: postgres

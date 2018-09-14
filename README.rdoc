@@ -1,0 +1,8 @@
+== README
+
+Spree Demo Site Live URL: https://murmuring-depths-45621.herokuapp.com/
+
+Email: spree@example.com
+Password: spree123
+
+Admin URL: https://murmuring-depths-45621.herokuapp.com/admin
